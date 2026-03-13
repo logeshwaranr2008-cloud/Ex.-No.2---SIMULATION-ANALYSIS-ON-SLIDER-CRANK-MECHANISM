@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 13.03.2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -17,12 +17,25 @@
 ###   ●	Geometry instruments.
 
 ## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
-
+1.Open the Virtual Lab – Slider Crank Mechanism (Acceleration Analysis) experiment.
+2.Note the given parameters:
+Crank length 
+𝑟=200,r=200 mm
+Connecting rod length 
+𝑙=600,l=600 mm
+Angular velocity 
+𝜔=50,ω=50 rad/s
+Angular acceleration 
+𝛼=800,α=800 rad/s²
+3.Determine the crank angle 𝜃
+θ from the diagram. The angle between the crank and line of stroke is 120°.
+4.Enter the values in the simulation fields:
+𝑟=200,r=200 mm, 𝑙=600,l=600 mm, 𝜃=120°
+𝜔=50,ω=50 rad/s, 
+𝛼=800,α=800 rad/s².
+6.Run the simulation to perform displacement, velocity, and acceleration analysis.
+7.Observe the calculated results such as slider velocity and acceleration along with the graphical outputs.
+8.Record the results and include them in the GitHub report, along with the simulation screenshot if required.
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
@@ -44,10 +57,20 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="1161" height="856" alt="Screenshot 2026-03-13 110617" src="https://github.com/user-attachments/assets/42051754-d626-480d-8637-d8e681f91414" />
 
+<img width="1161" height="842" alt="Screenshot 2026-03-13 110723" src="https://github.com/user-attachments/assets/6c43a829-1e62-4903-a2a9-5d55c7e72602" />
 
-### Name:
-### Register Number: 
+<img width="1014" height="394" alt="Screenshot 2026-03-13 110734" src="https://github.com/user-attachments/assets/202b676b-9a7d-4e8d-b51f-3b81fc4a904f" />
+
+<img width="1061" height="608" alt="Screenshot 2026-03-13 104840" src="https://github.com/user-attachments/assets/72aff195-abaf-48b0-82ce-7be1278db768" />
+
+<img width="1055" height="816" alt="Screenshot 2026-03-13 104900" src="https://github.com/user-attachments/assets/fc1b9ac8-b236-4470-9ea5-b92303c3245b" />
+
+<img width="1055" height="521" alt="Screenshot 2026-03-13 105022" src="https://github.com/user-attachments/assets/5067536a-e5c5-493e-8381-a83533168387" />
+
+### Name:LOGESHWARAN.R
+### Register Number: 212225040205
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
